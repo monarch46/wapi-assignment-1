@@ -1,0 +1,66 @@
+body{
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-left: 0px;
+    padding-left: 0px;
+}
+
+
+.lf{
+    margin-left: 0px;
+    padding-left: 0px;
+    height: 950px;
+    background-color: dodgerblue;
+}
+.cvhead{
+   display: block;
+  text-align: center;
+    color:lightskyblue;
+    font-weight: bold;
+}
+.name{
+    color: whitesmoke;
+    font-weight: bold;
+    text-align: center;
+    
+}
+.lastname{
+    color: whitesmoke;
+    font-weight: bold;
+    text-align: center;
+}
+.rightpart{
+    height: 650px;
+    background-color: lightgray;
+}
+.headsix{
+    color:skyblue;
+    font-weight: bold;
+    text-align:left;
+    opacity: 1.8;
+}
+.headanswer{
+    color: antiquewhite;
+    text-align: center;
+    font-weight: bold;
+    font-size: 18;
+}
+.cvlist{
+    margin-left: 50px;
+    font-style: italic;
+    font-weight: 400;
+    color: darkslategrey;
+}
+.certificate{
+    width:200px;
+    height: 200px;
+    padding: 30px;
+    
+}
+.cvlista{
+    margin-left: 50px;
+    font-weight: bold;
+    font-size: 30px;
+    color: deepskyblue;
+    list-style-type: none;
+}
